@@ -1,4 +1,5 @@
 my study link : https://github.com/sonkeehoon/go
+reference : https://blog.naver.com/hojun0313/222500289501
 run : go run {filename}.go
 build : go build {filename}.go
 
