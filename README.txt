@@ -3,6 +3,9 @@ reference : https://blog.naver.com/hojun0313/222500289501
 run : go run {filename}.go
 build : go build {filename}.go
 
+- go 환경설정
+go 를 설치한 디렉터리에 bin, pkg, src 3개의 폴더가 존재해야한다
+코딩은 src 폴더에서 하면 된다
 
 - print와 fmt 패키지
 main 패키지에서 "fmt"패지키를 불러올때
