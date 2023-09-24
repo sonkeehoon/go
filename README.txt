@@ -57,5 +57,12 @@ const (
 자료형은 코드보다 이론적인 내용이 많아서 아래 내용을 참조
 https://blog.naver.com/hojun0313/222516858858
 
+- 문자열
+Raw String Literal은 ``으로 문자열을 표현한다
+\n등을 넣어도 문자 그대로 출력시킨다
+Interpreted String Literal은 ""으로 문자열을 표현한다
+Raw와 다르게 \n같은 문자를 탈출문자로 인식한다
+
+
 
 
